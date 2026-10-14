@@ -1,0 +1,19 @@
+name: Tags
+version: '${project.version}'
+main: me.alex.tags.Tags
+api-version: '1.21.11'
+author: Alex
+description: Redeemable tag notes, a tag selector, and chat formatting.
+softdepend: [LuckPerms]
+commands:
+  tags:
+    description: Open your tags or give a tag note.
+    aliases: [tag]
+    usage: /<command> [give <player> <tag_name> <amount> | reload]
+permissions:
+  tags.give:
+    description: Give tag notes to online players.
+    default: op
+  tags.reload:
+    description: Reload config.yml and tag.yml.
+    default: op

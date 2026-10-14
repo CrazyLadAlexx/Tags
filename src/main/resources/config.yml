@@ -1,0 +1,6 @@
+chat:
+  enabled: true
+  luckperms-prefix: true
+  format: '{prefix}{tag}&f{player}&8: &f{message}'
+  prefix-format: '{prefix} '
+  tag-format: '&8[{tag}&8] '

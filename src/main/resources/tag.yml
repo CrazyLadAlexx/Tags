@@ -1,0 +1,73 @@
+note:
+  material: PAPER
+  name: '&3&lTag Note &7(Right-click)'
+  lore:
+    - '&7This is a tag note. Use this item'
+    - '&7to redeem an in-game tag. (/tag)'
+    - ''
+    - '&3Tag: {tag_bold}'
+    - ''
+    - '&7Hint: Right click me to claim this tag'
+
+tags:
+  mythic:
+    display: '&d&lMythic'
+  legend:
+    display: '&6&lLegend'
+  knight:
+    display: '&b&lKnight'
+  champion:
+    display: '&#FFD166&lChampion'
+  warrior:
+    display: '&#E76F51&lWarrior'
+  ninja:
+    display: '&#8D99AE&lNinja'
+  dragon:
+    display: '&#FF4500&lD&#FF5E00&lr&#FF7700&la&#FF9000&lg&#FFA900&lo&#FFC200&ln'
+  phoenix:
+    display: '&#FF4D00&lPhoe&#FFB700&lnix'
+  wizard:
+    display: '&#7B2CBF&lWizard'
+  celestial:
+    display: '&#F8F7FF&lCelestial'
+  cosmic:
+    display: '&#7209B7&lCo&#B5179E&lsm&#F72585&lic'
+  nebula:
+    display: '&#6930C3&lN&#7B2CBF&le&#9D4EDD&lb&#C77DFF&lu&#E0AAFF&ll&#F3C4FB&la'
+  galaxy:
+    display: '&#4361EE&lGal&#B5179E&laxy'
+  void:
+    display: '&#6C3D9A&lVoid'
+  inferno:
+    display: '&#FF2400&lInf&#FF8C00&lerno'
+  frost:
+    display: '&#CAF0F8&lF&#ADE8F4&lr&#90E0EF&lo&#48CAE4&ls&#00B4D8&lt'
+  thunder:
+    display: '&#FFD60A&lThunder'
+  ocean:
+    display: '&#023E8A&lO&#0077B6&lc&#0096C7&le&#00B4D8&la&#48CAE4&ln'
+  emerald:
+    display: '&#2DC653&lEmerald'
+  crimson:
+    display: '&#C9184A&lCrimson'
+  sunset:
+    display: '&#FF595E&lS&#FF7B54&lu&#FF9F1C&ln&#FFBF69&ls&#E76FAD&le&#B565D9&lt'
+  aurora:
+    display: '&#06D6A0&lA&#38D9A9&lu&#4CC9F0&lr&#4895EF&lo&#A06CD5&lr&#E0AAFF&la'
+  rainbow:
+    display: '&#FF595E&lR&#FF924C&la&#FFCA3A&li&#8AC926&ln&#1982C4&lb&#6A4C93&lo&#C77DFF&lw'
+  gamer:
+    display: '&#00F5D4&lGamer'
+
+  solstice:
+    display: '&#FFD166&l☀ &#FFC25E&lS&#FFB256&lo&#FFA34E&ll&#FF9446&ls&#FD8447&lt&#FA7551&li&#F6665B&lc&#F35665&le &#EF476F&l☀'
+  cupid:
+    display: '&#FFB3C6&l♥ &#FF91A8&lC&#FF6F8B&lu&#FF4D6D&lp&#ED3B61&li&#DB2A56&ld &#C9184A&l♥'
+  charged:
+    display: '&#FFF75E&l⚡ &#BFF386&lC&#80EEAF&lh&#40EAD7&la&#00E5FF&lr&#11C4FB&lg&#22A3F7&le&#3282F2&ld &#4361EE&l⚡'
+  snowfall:
+    display: '&#E0FBFC&l❄ &#BEF0F7&lS&#9CE5F1&ln&#7BDAEC&lo&#59CFE7&lw&#4EB8E0&lf&#5995D8&la&#6472CF&ll&#704FC7&ll &#7B2CBF&l❄'
+  dreamscape:
+    display: '&#C77DFF&lD&#B680F8&lr&#A584F0&le&#9487E9&la&#838AE2&lm&#7593DF&ls&#6AA1E0&lc&#5FAEE1&la&#53BCE3&lp&#48CAE4&le'
+  afterglow:
+    display: '&#FFB86B&lA&#FFA578&lf&#FF9284&lt&#FF7E91&le&#FF6B9D&lr&#E668AF&lg&#CD64C1&ll&#B461D3&lo&#9B5DE5&lw'
